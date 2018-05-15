@@ -1,5 +1,4 @@
 # Assignment Overview: UI Challenge 2
-### DUE:
 
 ## Custom Form Elements Using Sprites
 
